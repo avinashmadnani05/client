@@ -1,0 +1,64 @@
+.footer {
+    background-color: #1e1e1e; /* Dark gray background */
+    color: white;
+    padding: 40px 0; /* Increased padding for a more spacious look */
+    text-align: center;
+  }
+  
+  .footer-content {
+    margin: 0 auto;
+    max-width: 800px; /* Center the content */
+    padding: 20px;
+  }
+  
+  .footer-title {
+    font-size: 80px; /* Larger font size for "Get in Touch" */
+    margin-bottom: 20px; /* Space below the title */
+  }
+  h4 {
+    font-size: 18px; 
+    margin-bottom: 20px; 
+  }
+  
+  .footer-content p {
+    margin: 10px 0; 
+  }
+  
+  .social-buttons {
+    margin-top: 20px; 
+  }
+  
+  .social-button {
+    display: inline-block;
+    margin: 5px 10px; 
+    padding: 10px 20px; /* Button padding */
+    border-radius: 5px; /* Rounded corners */
+    color: white; /* Button text color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+    transition: background-color 0.3s; 
+  }
+  
+  .linkedin {
+    background-color: #0077b5;  }
+  
+  .github {
+    background-color: #333; }
+  
+  .instagram {
+    background-color: #e1306c;   }
+  
+  .whatsapp {
+    background-color: #25D366;  }
+  
+  /* Hover effects */
+  .social-button:hover {
+    filter: brightness(90%); 
+  }
+  
+  .footer-bottom {
+    border-top: 1px solid #444; 
+    padding: 5px;
+    margin-top: 0.5px;
+  }
+  
