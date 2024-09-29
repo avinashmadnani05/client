@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="social-buttons">
           <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="social-button linkedin">LinkedIn</a>
           <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-button github">GitHub</a>
-          <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="social-button instagram">Instagram</a>
+          <a href="https://www.instagram.com/gfg_ghrcemn/ target="_blank" rel="noopener noreferrer" className="social-button instagram">Instagram</a>
           <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer" className="social-button whatsapp">WhatsApp</a>
         </div>
       </div>
